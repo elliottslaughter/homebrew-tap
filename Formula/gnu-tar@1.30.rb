@@ -1,4 +1,4 @@
-class GnuTar < Formula
+class GnuTarAT130 < Formula
   desc "GNU version of the tar archiving utility"
   homepage "https://www.gnu.org/software/tar/"
   url "https://ftp.gnu.org/gnu/tar/tar-1.30.tar.gz"
